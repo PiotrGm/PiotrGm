@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Piotr Gmerek.
-- 👀 I’m interested in Ethical Hacking and programming in Python.
-- 🌱 I’m currently learning as above.
-- 📫 How to reach me? --> gmerekgmerek@gmail.com
-- ⚡ Fun fact (for me): ... hehe, mainly, I am a sound engineer, but when I saw the vast ocean of possibilities that IT offers...
-- hmm, that's inspiring.
+👋 Hi, I’m Piotr Gmerek.
 
-<!---
-PiotrGm/PiotrGm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about Python programming, Raspberry Pi, 3D modeling, and some fun robotics projects.
+
+🌱 Currently, I’m diving deep into Python, working with Raspberry Pi, experimenting with 3D printing, and playing around with cool DIY electronics (like LEDs stuff and small gadgets).
+
+📫 How to reach me? --> gmerekgmerek@gmail.com
+
+⚡ Fun fact (for me): I’m a sound engineer by trade, but once I discovered the endless possibilities in tech and electronics, I couldn’t stop exploring. Now I’m building, printing, and programming my own creations.
